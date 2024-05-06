@@ -7,10 +7,10 @@ This project was mainly writen to learn how to read a `.config` file.
 
 ## Prerequisites
 
+- **Node.js**: Ensure Node.js is installed on your system. If not, download and install it from [nodejs.org](https://nodejs.org/).
+
 ## Usecase
 This code module is designed to read and interpret configuration files in a specific format, extracting key-value pairs and organizing them into an object. Its purpose is to facilitate the integration of configuration settings into Node.js applications. This tool simplifies the process of managing settings, making it easier to customize and adjust application behavior without directly modifying the code.
-
-- **Node.js**: Ensure Node.js is installed on your system. If not, download and install it from [nodejs.org](https://nodejs.org/).
 
 ## Usage
 
